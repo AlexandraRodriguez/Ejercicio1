@@ -15,7 +15,7 @@ public class Test {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        Person p = new Person("Holanda");
+        Person p = new Person("Holi");
         String msg = p.greet("Alemania");
         System.out.println(msg);
     }
